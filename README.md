@@ -2,7 +2,7 @@
 
 Sistema de console em SWI‑Prolog que analisa seu orçamento doméstico e recomenda: status financeiro, valor de poupança mensal sugerido, estratégia de quitação de dívidas e prioridades (fundo de emergência, cortes por categoria, investir agora ou adiar).
 
-##Autores: Pedro Henrique Scheidt (@HSP303) e Vinícius Minas (@viniciusminas)
+## Autores: Pedro Henrique Scheidt (@HSP303) e Vinícius Minas (@viniciusminas)
 
 ## Pré‑requisitos
 - SWI‑Prolog instalado (`swipl`)
