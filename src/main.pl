@@ -5,7 +5,7 @@ start :-
 
 banner :-
   format("~n=== Sistema Especialista - Orçamento Familiar ===~n"),
-  format("Desenvolvido por: Pedro Henrique Scheidt e Vinícius Antônio Minas~n~n").
+  format("Desenvolvido por: <Pedro Henrique Scheidt e Vinícius Antônio Minas> (@github.com/HSP303) e (@github.com/viniciusminas)~n~n").
 
 menu :-
   format("1) Executar diagnóstico~n2) Sair~n> "),
